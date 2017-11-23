@@ -1,0 +1,22 @@
+    body {
+        font-family: 'Roboto', sans-serif;
+  background-color: #2C70F5;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+    .bio-body a {
+      background-color: rgba(0,0,0,.1);
+      padding: 5px 6px;
+      border-radius: 2px;
+
+    }
+
+    .bio-body  a:hover {
+      background-color: rgba(0,0,0,.2);
+      text-decoration: none;
+    }
+
+    .navbar {
+      padding-top: 2rem;
+    }
